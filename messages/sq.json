@@ -1,0 +1,13 @@
+{
+  "Navbar": {
+    "home": "BALLINA",
+    "services": "SHËRBIME",
+    "ourteam": "EKIPI YNË",
+    "blog": "BLOG",
+    "contact": "KONTAKT"
+  },
+
+  "Home": {
+    "title": "Miresevini ne faqen tone"
+  }
+}

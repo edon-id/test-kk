@@ -1,0 +1,13 @@
+{
+  "Navbar": {
+    "home": "HOME",
+    "services": "SERVICES",
+    "ourteam": "OUR TEAM",
+    "blog": "BLOG",
+    "contact": "CONTACT"
+  },
+
+  "Home": {
+    "title": "Welcome to our website"
+  }
+}
